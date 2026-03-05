@@ -1,0 +1,7 @@
+
+EmployeeID,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,Overtime,JobSatisfaction,Attrition
+1001,34,Sales,Sales Executive,4500,5,Yes,3,No
+1002,29,HR,HR Manager,5200,4,No,4,No
+1003,41,IT,Developer,6100,7,Yes,2,Yes
+1004,25,Sales,Sales Representative,3900,2,Yes,3,Yes
+1005,37,Finance,Accountant,5800,6,No,4,No
